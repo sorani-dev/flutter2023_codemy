@@ -14,7 +14,7 @@ Playlist url: <https://youtube.com/playlist?list=PLCC34OHNcOtpx9qCZNv-NbIT1Gx3BA
 - Add Images To Your App (TWO METHODS!) - Flutter Friday 5
   - Network image: url is the url of your image
   
-  ```dart
+    ```dart
     Image(image=NetworkImage('url'))
     ```
 
@@ -28,7 +28,7 @@ Playlist url: <https://youtube.com/playlist?list=PLCC34OHNcOtpx9qCZNv-NbIT1Gx3BA
     use the [App Icon Generator](https://www.appicon.co/) website
 
 - Hot Reloading Stateless Widgets! - Flutter Friday 7
-    To Hot Reload crrzte a Stateless Widget and pass it to the runApp function.
+    To Hot Reload create a Stateless Widget and pass it to the runApp function.
 
     ```dart
     runApp(const myStatelessWidget());
@@ -39,6 +39,11 @@ Playlist url: <https://youtube.com/playlist?list=PLCC34OHNcOtpx9qCZNv-NbIT1Gx3BA
     Use vs code extension Flutter: type *stl*.
 
 - Intro To Container Layouts - Flutter Friday 8
+  
+  ```dart
+    const Container()
+  ```
+  
 - Safe Area - Flutter Friday 9
 - How To Use The Column Widget - Flutter Friday 10
 - How To Use The Row Widget - Flutter Friday 11

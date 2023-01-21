@@ -18,36 +18,37 @@ class MyWidget extends StatelessWidget {
               backgroundColor: const Color.fromARGB(255, 0, 194, 71),
             ), */
             body: SafeArea(
-      child: Column(
-        // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        crossAxisAlignment: CrossAxisAlignment.center,
+      child: Row(
+        // Column(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          Container(
-            width: double.infinity,
-          ),
+          // Container(
+          //   width: double.infinity,
+          // ),
           Container(
             color: Colors.teal,
             width: 150.0,
             height: 150.0,
             padding: const EdgeInsets.all(20.0),
             // margin: const EdgeInsets.all(100.0),
-            child: const Text('Column 1'),
+            child: const Text('Box 1'),
           ),
           Container(
             color: Colors.amber,
-            width: 150.0,
+            width: 100.0,
             height: 150.0,
             padding: const EdgeInsets.all(20.0),
             // margin: const EdgeInsets.all(100.0),
-            child: const Text('Column 2'),
+            child: const Text('Box 2'),
           ),
           Container(
             color: Colors.cyan,
-            width: 150.0,
+            width: 100.0,
             height: 150.0,
             padding: const EdgeInsets.all(20.0),
             // margin: const EdgeInsets.all(100.0),
-            child: const Text('Column 3'),
+            child: const Text('Box 3'),
           ),
         ],
       ),

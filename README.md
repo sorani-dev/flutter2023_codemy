@@ -50,6 +50,29 @@ Playlist url: <https://youtube.com/playlist?list=PLCC34OHNcOtpx9qCZNv-NbIT1Gx3BA
   ```dart
     body: SafeArea()
   ```
-  
+
 - How To Use The Column Widget - Flutter Friday 10
+
+  ```dart
+  Column(
+    children: [],
+  ),
+  ```
+
+  For space and position management:
+  - vertiacally use `mainAxisAlignment: MainAxisAlignment`. `MainAxisAlignment` has properties similar to CSS Flex `justify-content`
+  - horizontally use `crossAxisAlignment: CrossAxisAlignment`. `CrossAxisAlignment` has properties similar to CSS Flex `align-items`
+
+To align a `Container` that has same width use this code:
+
+```dart
+Column(
+  children: [
+      Container(
+        width: double.infinity,
+      ),
+  ],
+);
+```
+
 - How To Use The Row Widget - Flutter Friday 11

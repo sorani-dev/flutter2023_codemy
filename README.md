@@ -10,8 +10,12 @@ Playlist url: <https://youtube.com/playlist?list=PLCC34OHNcOtpx9qCZNv-NbIT1Gx3BA
 - First Flutter App On Android - Build Flutter Apps 2
 - Flutter Scaffold and Widget Tree - Flutter Friday #3
 - Changing Colors With Material Design Colors - Flutter Friday 4
+    `Colors.COLOR_NAME[DEGREEEOFLIGHTNESS]`
 - Add Images To Your App (TWO METHODS!) - Flutter Friday 5
+   ```Image(image=NetworkImage('url'))```
+    ```Image(image=AssetImage('imagePath'))``` and add image path to `pubspec.yaml`
 - Add Icons For Android And Iphone - Flutter Friday 6
+    use the [App Icon Generator](https://www.appicon.co/) website
 - Hot Reloading Stateless Widgets! - Flutter Friday 7
 - Intro To Container Layouts - Flutter Friday 8
 - Safe Area - Flutter Friday 9

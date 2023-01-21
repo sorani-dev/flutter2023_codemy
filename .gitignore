@@ -85,3 +85,491 @@ lib/generated_plugin_registrant.dart
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/flutter,visualstudiocode
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/.gitattributes
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/.metadata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/analysis_options.yaml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/pubspec.lock
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/pubspec.yaml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/README.md
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/.vs/slnx.sqlite
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/.vs/VSWorkspaceState.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/.vs/containers/v16/.suo
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/build.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/gradle.properties
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/settings.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/build.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/debug/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/kotlin/com/example/secondly/MainActivity.kt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/res/drawable/launch_background.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/res/drawable-v21/launch_background.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/res/values/styles.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/main/res/values-night/styles.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/app/src/profile/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/android/gradle/wrapper/gradle-wrapper.properties
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/images/aspen.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Flutter/AppFrameworkInfo.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Flutter/Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Flutter/Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/AppDelegate.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Info.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Runner-Bridging-Header.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/29.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/40.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/57.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/58.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/60.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/80.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/87.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/114.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/120.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/180.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/1024.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Base.lproj/LaunchScreen.storyboard
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner/Base.lproj/Main.storyboard
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner.xcodeproj/project.pbxproj
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/lib/main.dart
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/linux/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/linux/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/linux/main.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/linux/my_application.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/linux/my_application.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/linux/flutter/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/linux/flutter/generated_plugin_registrant.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/linux/flutter/generated_plugin_registrant.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/linux/flutter/generated_plugins.cmake
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Flutter/Flutter-Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Flutter/Flutter-Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Flutter/GeneratedPluginRegistrant.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/AppDelegate.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/DebugProfile.entitlements
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Info.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/MainFlutterWindow.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Release.entitlements
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Base.lproj/MainMenu.xib
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Configs/AppInfo.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Configs/Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Configs/Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner/Configs/Warnings.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner.xcodeproj/project.pbxproj
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/test/widget_test.dart
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/web/favicon.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/web/index.html
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/web/manifest.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/web/icons/Icon-192.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/web/icons/Icon-512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/web/icons/Icon-maskable-192.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/web/icons/Icon-maskable-512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/flutter/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/flutter/generated_plugin_registrant.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/flutter/generated_plugin_registrant.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/flutter/generated_plugins.cmake
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/flutter_window.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/flutter_window.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/main.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/resource.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/runner.exe.manifest
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/Runner.rc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/utils.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/utils.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/win32_window.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/win32_window.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/columns and rows/windows/runner/resources/app_icon.ico
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/.metadata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/analysis_options.yaml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/pubspec.lock
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/pubspec.yaml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/README.md
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/.vs/slnx.sqlite
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/.vs/VSWorkspaceState.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/.vs/containers/v16/.suo
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/build.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/gradle.properties
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/settings.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/build.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/debug/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/kotlin/com/example/secondly/MainActivity.kt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/res/drawable/launch_background.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/res/drawable-v21/launch_background.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/res/values/styles.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/main/res/values-night/styles.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/app/src/profile/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/android/gradle/wrapper/gradle-wrapper.properties
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/images/aspen.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Flutter/AppFrameworkInfo.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Flutter/Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Flutter/Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/AppDelegate.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Info.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Runner-Bridging-Header.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/29.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/40.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/57.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/58.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/60.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/80.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/87.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/114.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/120.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/180.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/1024.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Base.lproj/LaunchScreen.storyboard
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner/Base.lproj/Main.storyboard
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner.xcodeproj/project.pbxproj
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/lib/main.dart
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/linux/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/linux/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/linux/main.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/linux/my_application.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/linux/my_application.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/linux/flutter/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/linux/flutter/generated_plugin_registrant.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/linux/flutter/generated_plugin_registrant.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/linux/flutter/generated_plugins.cmake
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Flutter/Flutter-Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Flutter/Flutter-Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Flutter/GeneratedPluginRegistrant.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/AppDelegate.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/DebugProfile.entitlements
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Info.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/MainFlutterWindow.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Release.entitlements
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Base.lproj/MainMenu.xib
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Configs/AppInfo.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Configs/Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Configs/Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner/Configs/Warnings.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner.xcodeproj/project.pbxproj
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/test/widget_test.dart
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/web/favicon.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/web/index.html
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/web/manifest.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/web/icons/Icon-192.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/web/icons/Icon-512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/web/icons/Icon-maskable-192.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/web/icons/Icon-maskable-512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/flutter/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/flutter/generated_plugin_registrant.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/flutter/generated_plugin_registrant.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/flutter/generated_plugins.cmake
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/flutter_window.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/flutter_window.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/main.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/resource.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/runner.exe.manifest
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/Runner.rc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/utils.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/utils.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/win32_window.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/win32_window.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/containers/windows/runner/resources/app_icon.ico
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/.metadata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/analysis_options.yaml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/pubspec.lock
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/pubspec.yaml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/README.md
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/build.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/gradle.properties
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/settings.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/build.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/debug/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/kotlin/com/example/firstly/MainActivity.kt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/res/drawable/launch_background.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/res/drawable-v21/launch_background.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/res/values/styles.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/main/res/values-night/styles.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/app/src/profile/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/android/gradle/wrapper/gradle-wrapper.properties
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Flutter/AppFrameworkInfo.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Flutter/Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Flutter/Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/AppDelegate.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Info.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Runner-Bridging-Header.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Base.lproj/LaunchScreen.storyboard
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner/Base.lproj/Main.storyboard
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner.xcodeproj/project.pbxproj
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/lib/main.dart
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/linux/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/linux/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/linux/main.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/linux/my_application.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/linux/my_application.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/linux/flutter/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/linux/flutter/generated_plugin_registrant.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/linux/flutter/generated_plugin_registrant.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/linux/flutter/generated_plugins.cmake
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Flutter/Flutter-Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Flutter/Flutter-Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Flutter/GeneratedPluginRegistrant.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/AppDelegate.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/DebugProfile.entitlements
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Info.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/MainFlutterWindow.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Release.entitlements
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Base.lproj/MainMenu.xib
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Configs/AppInfo.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Configs/Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Configs/Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner/Configs/Warnings.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner.xcodeproj/project.pbxproj
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/test/widget_test.dart
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/web/favicon.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/web/index.html
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/web/manifest.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/web/icons/Icon-192.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/web/icons/Icon-512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/web/icons/Icon-maskable-192.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/web/icons/Icon-maskable-512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/flutter/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/flutter/generated_plugin_registrant.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/flutter/generated_plugin_registrant.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/flutter/generated_plugins.cmake
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/flutter_window.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/flutter_window.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/main.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/resource.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/runner.exe.manifest
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/Runner.rc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/utils.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/utils.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/win32_window.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/win32_window.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/firstly/windows/runner/resources/app_icon.ico
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/.metadata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/analysis_options.yaml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/pubspec.lock
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/pubspec.yaml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/README.md
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/build.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/gradle.properties
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/settings.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/build.gradle
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/debug/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/kotlin/com/example/secondly/MainActivity.kt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/res/drawable/launch_background.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/res/drawable-v21/launch_background.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/res/values/styles.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/main/res/values-night/styles.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/app/src/profile/AndroidManifest.xml
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/android/gradle/wrapper/gradle-wrapper.properties
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/images/aspen.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Flutter/AppFrameworkInfo.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Flutter/Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Flutter/Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/AppDelegate.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Info.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Runner-Bridging-Header.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/29.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/40.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/57.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/58.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/60.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/80.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/87.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/114.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/120.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/180.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/1024.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Base.lproj/LaunchScreen.storyboard
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner/Base.lproj/Main.storyboard
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner.xcodeproj/project.pbxproj
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/lib/main.dart
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/linux/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/linux/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/linux/main.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/linux/my_application.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/linux/my_application.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/linux/flutter/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/linux/flutter/generated_plugin_registrant.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/linux/flutter/generated_plugin_registrant.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/linux/flutter/generated_plugins.cmake
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Flutter/Flutter-Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Flutter/Flutter-Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Flutter/GeneratedPluginRegistrant.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/AppDelegate.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/DebugProfile.entitlements
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Info.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/MainFlutterWindow.swift
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Release.entitlements
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Base.lproj/MainMenu.xib
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Configs/AppInfo.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Configs/Debug.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Configs/Release.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner/Configs/Warnings.xcconfig
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner.xcodeproj/project.pbxproj
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner.xcworkspace/contents.xcworkspacedata
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/test/widget_test.dart
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/web/favicon.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/web/index.html
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/web/manifest.json
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/web/icons/Icon-192.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/web/icons/Icon-512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/web/icons/Icon-maskable-192.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/web/icons/Icon-maskable-512.png
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/.gitignore
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/flutter/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/flutter/generated_plugin_registrant.cc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/flutter/generated_plugin_registrant.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/flutter/generated_plugins.cmake
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/CMakeLists.txt
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/flutter_window.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/flutter_window.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/main.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/resource.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/runner.exe.manifest
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/Runner.rc
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/utils.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/utils.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/win32_window.cpp
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/win32_window.h
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main/secondly/windows/runner/resources/app_icon.ico
+src/c2/secondly/Flutter-Fridays-Youtube-Playlist-main.zip

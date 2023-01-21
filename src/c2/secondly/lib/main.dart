@@ -7,10 +7,12 @@ void main() {
         title: const Center(
           child: Text("Simon"),
         ),
+        backgroundColor: Colors.deepPurple[400],
       ),
       body: const Center(
         child: Text("Learn to code"),
       ),
+      backgroundColor: Colors.deepPurple[200],
     ),
   ));
 }

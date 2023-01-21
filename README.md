@@ -43,7 +43,13 @@ Playlist url: <https://youtube.com/playlist?list=PLCC34OHNcOtpx9qCZNv-NbIT1Gx3BA
   ```dart
     const Container()
   ```
-  
+
 - Safe Area - Flutter Friday 9
+  Wrap around your whole app:
+
+  ```dart
+    body: SafeArea()
+  ```
+  
 - How To Use The Column Widget - Flutter Friday 10
 - How To Use The Row Widget - Flutter Friday 11

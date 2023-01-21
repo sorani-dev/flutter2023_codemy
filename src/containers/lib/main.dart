@@ -11,19 +11,21 @@ class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         home: Scaffold(
-            appBar: AppBar(
+/*             appBar: AppBar(
               title: const Center(
                 child: Text("Simon"),
               ),
               backgroundColor: const Color.fromARGB(255, 0, 194, 71),
-            ),
-            body: Container(
-              color: Colors.teal,
-              width: 150.0,
-              height: 150.0,
-              padding: const EdgeInsets.all(20.0),
-              margin: const EdgeInsets.all(100.0),
-              child: const Text('Yo! What\'s going on?'),
-            )));
+            ), */
+            body: SafeArea(
+      child: Container(
+        color: Colors.teal,
+        width: 150.0,
+        height: 150.0,
+        padding: const EdgeInsets.all(20.0),
+        // margin: const EdgeInsets.all(100.0),
+        child: const Text('Yo! What\'s going on?'),
+      ),
+    )));
   }
 }

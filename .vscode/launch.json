@@ -4,40 +4,6 @@
     // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-        {
-            "name": "firstapp (profile mode)",
-            "cwd": "src\\c1\\firstapp",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "profile"
-        },
-        {
-            "name": "firstapp (release mode)",
-            "cwd": "src\\c1\\firstapp",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
-        },
-        {
-            "name": "secondly",
-            "cwd": "src\\c2\\secondly",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "secondly (profile mode)",
-            "cwd": "src\\c2\\secondly",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "profile"
-        },
-        {
-            "name": "secondly (release mode)",
-            "cwd": "src\\c2\\secondly",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
-        }
+
     ]
 }
